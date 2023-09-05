@@ -1,0 +1,28 @@
+@font-face {
+    font-family: GeneralSans;
+    src: url("font/GeneralSans-Variable.ttf");
+}
+body{
+    font-family: generalsans;
+}
+.one{
+    background-image: url(icons8-supprimer-64.png); 
+    height: 64px;
+    width: 64px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.two{
+background-image: url(icons8-check-64.png);
+height: 64px;
+    width: 64px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+#root article{
+    height: 64px;
+    font-weight: 500;
+    padding-top: 20px;
+}
